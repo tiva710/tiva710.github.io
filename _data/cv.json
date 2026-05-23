@@ -38,10 +38,17 @@
   ],
   "work": [
     {
+      "company": "Catalyst Program, NC State Science House",
+      "position": "AI & Organizational Skills Instructor",
+      "startDate": "2026-07",
+      "endDate": "2026-07",
+      "summary": "Developed and taught sessions on using AI for organizational skills, time management, and assignments to high school students with disabilities."
+    },
+    {
       "company": "Blackwell Research Institute",
-      "position": "STEM Tutor & Research Mentor",
+      "position": "STEM Research Mentor",
       "startDate": "2026-03",
-      "summary": "Conduct one-on-one sessions for high school students; guide students on scientific literature and research methods."
+      "summary": "Guide students on reading scientific literature, forming research questions, writing a literature review, and submitting for publication."
     },
     {
       "company": "NC State University - WISER Lab",
@@ -53,7 +60,7 @@
       "company": "NC State University",
       "position": "Software Engineering Graduate TA",
       "startDate": "2025-08",
-      "summary": "Lead lab instruction for 60+ students, grade assignments, hold office hours."
+      "summary": "Lead lab instruction for 60+ students, grade assignments, hold office hours, and periodically deliver full lectures."
     }
   ],
   "publications": [

@@ -8,4 +8,4 @@ date: 2025-08-01
 location: "Raleigh, NC"
 ---
 
-Lead lab instruction for 60+ students in Software Engineering. Grade assignments, hold office hours, and support student development in software design, testing, and project management. (Aug 2025 -- Present)
+Lead lab instruction for 60+ students in Software Engineering. Grade assignments, hold office hours to enhance student development, and periodically deliver full lectures. (Aug 2025 -- Present)
