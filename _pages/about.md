@@ -21,6 +21,7 @@ Before NC State, I earned my BS in Computer Science (Software Engineering) from 
 
 ## Recent Highlights
 
+- **NC State Helping Hands Project** — Volunteer mobile app developer building low-cost prosthetic hands for children
 - **LearnLab Summer School 2026** — Educational Data Mining Track, Carnegie Mellon University
 - **Outstanding Graduate TA Award** — NCSU ACM Chapter (April 2026)
 - **AI & Organizational Skills Instructor** — Catalyst Program, NC State Science House (July 2026)

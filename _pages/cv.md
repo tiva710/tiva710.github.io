@@ -60,11 +60,15 @@ redirect_from:
 
 ## Certifications & Awards
 
+- **Teaching Certificate, Advanced**, NCSU Graduate School (In Progress)
 - **Outstanding Graduate TA Award**, NCSU ACM Chapter (April 2026)
 - **Teaching Certificate**, NCSU Graduate School (March 2026)
-- **Teaching Certificate, Advanced**, NCSU Graduate School (In Progress)
 
 ## Leadership & Service
+
+- **Mobile App Developer**, NC State Helping Hands Project (March 2026 -- Present)
+  - Volunteer developer building low-cost prosthetic hands for children, contributing to the iOS/Android mobile application using React Native and TypeScript
+  - Built real-time Bluetooth Low Energy communication between the app and an Arduino-powered prosthetic
 
 - **Workshop Organizer & Instructor**, NC State University (Nov 2025 -- Present)
   - Organize and lead GitHub-based personal portfolio workshops with backing from the NC State Computing Success Center and ACM chapter
