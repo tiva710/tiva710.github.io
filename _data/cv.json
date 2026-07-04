@@ -31,18 +31,17 @@
     },
     {
       "institution": "California State University, Monterey Bay",
-      "area": "B.S. in Computer Science - Software Engineering",
+      "area": "B.S. in Computer Science — Software Engineering",
       "startDate": "2021",
       "endDate": "2024"
     }
   ],
   "work": [
     {
-      "company": "Catalyst Program, NC State Science House",
-      "position": "AI & Organizational Skills Instructor",
-      "startDate": "2026-07",
-      "endDate": "2026-07",
-      "summary": "Developed and taught sessions on using AI for organizational skills, time management, and assignments to high school students with disabilities."
+      "company": "NC State University - WISER Lab",
+      "position": "Graduate Research Assistant",
+      "startDate": "2026-01",
+      "summary": "Conduct CS education & software engineering research. Advisor: Dr. Sarah Heckman."
     },
     {
       "company": "Blackwell Research Institute",
@@ -51,16 +50,17 @@
       "summary": "Guide students on reading scientific literature, forming research questions, writing a literature review, and submitting for publication."
     },
     {
-      "company": "NC State University - WISER Lab",
-      "position": "Graduate Research Assistant",
-      "startDate": "2026-01",
-      "summary": "Conduct CS education & software engineering research under advisement of Dr. Sarah Heckman."
-    },
-    {
       "company": "NC State University",
-      "position": "Software Engineering Graduate TA",
+      "position": "Lead Software Engineering Graduate Teaching Assistant",
       "startDate": "2025-08",
       "summary": "Lead lab instruction for 60+ students, grade assignments, hold office hours, and periodically deliver full lectures."
+    },
+    {
+      "company": "NC State Science House, Catalyst Program",
+      "position": "AI & Organizational Skills Instructor",
+      "startDate": "2026-07",
+      "endDate": "2026-07",
+      "summary": "Developed and taught sessions on using AI for organizational skills, time management, and assignments to 60 STEM high school students with disabilities."
     }
   ],
   "publications": [

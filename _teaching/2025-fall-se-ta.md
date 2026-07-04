@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering - Graduate Teaching Assistant"
+title: "Lead Software Engineering Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate TA"
 permalink: /teaching/ncsu-se-ta
