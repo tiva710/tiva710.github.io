@@ -26,6 +26,7 @@ redirect_from:
 ## Professional Development
 
 - **LearnLab Summer School**, Educational Data Mining Track, Carnegie Mellon University, Pittsburgh, PA (July 2026)
+- **NextProf Pathfinder**, University of Michigan, Ann Arbor, MI (Planned Sep 2026)
 
 ## Research Experience
 

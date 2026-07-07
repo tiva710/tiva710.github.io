@@ -21,6 +21,7 @@ Before NC State, I earned my B.S. in Computer Science (Software Engineering) fro
 
 ## Recent Highlights
 
+- **NextProf Pathfinder** — University of Michigan, Ann Arbor (Sep 2026)
 - **Teaching Certificate, Advanced** — NC State Graduate School (June 2026)
 - **LearnLab Summer School 2026** — Educational Data Mining Track, Carnegie Mellon University
 - **Outstanding Graduate TA Award** — NC State ACM Chapter (April 2026)
