@@ -44,16 +44,17 @@
       "summary": "Conduct CS education & software engineering research. Advisor: Dr. Sarah Heckman."
     },
     {
+      "company": "NC State University",
+      "position": "Lead Graduate Teaching Assistant, CSC 326: Software Engineering",
+      "startDate": "2025-08",
+      "summary": "Lead lab instruction for 60+ students, grade assignments, hold office hours, and periodically deliver full lectures to 200+ students."
+    },
+    {
       "company": "Blackwell Research Institute",
       "position": "STEM Research Mentor",
       "startDate": "2026-03",
-      "summary": "Guide students on reading scientific literature, forming research questions, writing a literature review, and submitting for publication."
-    },
-    {
-      "company": "NC State University",
-      "position": "Lead Software Engineering Graduate Teaching Assistant",
-      "startDate": "2025-08",
-      "summary": "Lead lab instruction for 60+ students, grade assignments, hold office hours, and periodically deliver full lectures."
+      "endDate": "2026-08",
+      "summary": "Guided high-school level students on reading scientific literature, forming research questions, writing a literature review, and submitting for publication. Five mentees published in The Blackwell Research Journal."
     },
     {
       "company": "NC State Science House, Catalyst Program",
@@ -65,10 +66,16 @@
   ],
   "publications": [
     {
+      "name": "A Systematic Mapping Study on Teaming in Computer Science Education",
+      "publisher": "ACM Transactions on Computing Education (TOCE)",
+      "releaseDate": "2026",
+      "summary": "Under Review."
+    },
+    {
       "name": "Debugging Server- and Client-Side JavaScript",
-      "publisher": "Journal of Computing Sciences in Colleges, 40(2), 18-20",
+      "publisher": "Journal of Computing Sciences in Colleges (CCSC-NW), 40(2), 18-20",
       "releaseDate": "2024-10",
-      "summary": "Conference tutorial at CCSC-NW, Willamette University, Salem, OR."
+      "summary": "Conference Tutorial."
     }
   ],
   "skills": [],

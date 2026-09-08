@@ -41,3 +41,39 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Custom Styles ===== */
+
+/* Subtle accent line under section headings on the CV and about pages */
+.page__content h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--global-primary-color, #cc0000);
+}
+
+/* Tighter list spacing for CV readability */
+.page__content li {
+  margin-bottom: 0.25em;
+}
+
+/* Nested list items (bullet descriptions) slightly lighter */
+.page__content li li {
+  font-size: 0.95em;
+  opacity: 0.92;
+}
+
+/* Download CV button - make it pop a bit more */
+.btn--info {
+  margin-bottom: 1.5em;
+  font-weight: 600;
+}
+
+/* Clean separator between archive items */
+.list__item + .list__item {
+  border-top: 1px solid var(--global-border-color, #e0e0e0);
+  padding-top: 0.75em;
+}
+
+/* Author bio text - slightly more breathing room */
+.author__bio {
+  line-height: 1.5;
+}
